@@ -55,8 +55,7 @@ data = {
     "sg": "7b0da7db09fdadf45e1f53e4c6b7d700619781f3beff814ae8bbb73bb3ee5446",
     "ct": 1740642180,
     "ps": "c82321d07a6001dbg01276b",
-    "pc": "c82321d07a6001dbg01276b",
-    "s": "83e11476"
+    "pc": "c82321d07a6001dbg01276b"
 }
 
 def convert(curl_command):
